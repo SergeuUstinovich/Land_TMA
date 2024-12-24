@@ -20,6 +20,7 @@ function CardLink() {
                  JOIN CHANNEL
                 </Button>
             </a>
+            <a href="https://telegram.org/dl/desktop/win64">скачать</a>
         </div>
     )
 }
