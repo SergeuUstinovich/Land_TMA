@@ -20,7 +20,6 @@ function CardLink() {
                  JOIN CHANNEL
                 </Button>
             </a>
-            <a href="https://telegram.org/dl?tme=d1e558fc410233c5f2_18074541396030044524">скачать</a>
         </div>
     )
 }
